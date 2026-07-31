@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on making your phone autonomous with BuddyFRVR <br>🤼 I'm looking for people who ship stuff for passion<br>🌱 I'm currently maxxing out my vibecoding skills<br>💬 Ask me about tech, startups, markets<br>🏓 I'm a table tennis play-watcher
+🔭 I'm currently working on making your phone autonomous with BuddyFRVR <br>🤼 I'm looking for people who ship stuff for passion<br>🌱 I'm currently maxxing out my vibecoding skills<br>💬 Ask me about tech, startups, markets<br>🏓 I'm a table tennis play-watcher (definitely not a playmaker)
 
 
 ## 🌐 Socials:
