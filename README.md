@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="assets/profile-ascii.svg" width="540" alt="Pratham Jain, rendered in ASCII" />
+  <img src="assets/banner.png" alt="Pratham Jain — Indie builder shipping AI tools in public" />
 </div>
-
-<h1 align="center">Pratham Jain</h1>
-<p align="center"><b>Indie builder shipping AI tools in public.</b></p>
-
----
 
 ### Currently building
 **[Bolo](https://github.com/pratham-jain33/Bolo)** — a voice operating layer for your computer. You speak, it does.
@@ -21,7 +16,14 @@
 - **Carbolt** — browser extension that makes your carbon footprint visible across food, water and fuel. 600 users.
 
 ### How I build
+`idea → prompt → review → ship → repeat`
+
 I don't write code the traditional way. I direct AI, judge the output, and ship fast. Taste is the moat.
+
+### Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=py,js,electron,git,github,vercel&theme=dark" alt="Tools I use" />
+</div>
 
 ### Find me
 [X](https://x.com/prathamjain33) · [LinkedIn](https://www.linkedin.com/in/prathamjain33/)
