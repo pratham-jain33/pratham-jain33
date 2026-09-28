@@ -1,15 +1,35 @@
-# 💫 About Me:
-🔭 I'm currently working on making your phone autonomous with BuddyFRVR <br>🤼 I'm looking for people who ship stuff for passion<br>🌱 I'm currently maxxing out my vibecoding skills<br>💬 Ask me about tech, startups, markets<br>🏓 I'm a table tennis play-watcher (definitely not a playmaker)
+<div align="center">
+  <img src="assets/profile-ascii.svg" width="540" alt="Pratham Jain, rendered in ASCII" />
+</div>
 
+<h1 align="center">Pratham Jain</h1>
+<p align="center"><b>Indie builder shipping AI tools in public.</b></p>
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prathamjain33) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pratham-jain33&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=pratham-jain33&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pratham-jain33&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Currently building
+**[Bolo](https://github.com/pratham-jain33/Bolo)** — a voice operating layer for your computer. You speak, it does.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Shipped
+- **[hackerearth-mcp](https://github.com/pratham-jain33/hackerearth-mcp)** — give any AI assistant a code run button. 24 languages, powered by HackerEarth's sandbox.
+  <br>
+  ![PyPI version](https://img.shields.io/pypi/v/hackerearth-mcp)
+  ![License](https://img.shields.io/github/license/pratham-jain33/hackerearth-mcp)
+  <br>
+  [PyPI](https://pypi.org/project/hackerearth-mcp/) · [Glama](https://glama.ai/mcp/servers/pratham-jain33/hackerearth-mcp)
+- **[VoiceMail Pro](https://github.com/pratham-jain33/VoiceMail-Pro)** — browser extension that turns voice dictation into professional emails. 200 users.
+- **Carbolt** — browser extension that makes your carbon footprint visible across food, water and fuel. 600 users.
+
+### How I build
+I don't write code the traditional way. I direct AI, judge the output, and ship fast. Taste is the moat.
+
+### Find me
+[X](https://x.com/prathamjain33) · [LinkedIn](https://www.linkedin.com/in/prathamjain33/)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratham-jain33&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=pratham-jain33&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-jain33&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+</div>

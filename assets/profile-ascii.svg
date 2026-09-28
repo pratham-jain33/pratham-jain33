@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="551" viewBox="0 0 540 551">
+<style>
+.line{opacity:0;animation:fin .25s forwards;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;}
+@keyframes fin{to{opacity:1}}
+.cur{animation:blink 1.06s steps(1) infinite;}
+@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="540" height="551" rx="12" fill="#0a0a0a"/>
+<text x="18" y="22" font-size="13" fill="#1a7a3c" class="line" style="animation-delay:0ms" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">pratham@github:~$ ./render.sh</text>
+<text x="18" y="64.0" font-size="12" fill="#33ff66" class="line" style="animation-delay:350ms" xml:space="preserve">$$$$$$$@@@@@@@@@@@@@@@$$$$@&amp;qCcvzYXx{)uUm*8@$$@B@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="18" y="78.2" font-size="12" fill="#33ff66" class="line" style="animation-delay:405ms" xml:space="preserve">$$$$$$$$$$$$@$$$$@@@@$@dJt_l`       .^^`,l~}C*@$@@@@@@@@@@@@@@@@@@$$$$</text>
+<text x="18" y="92.3" font-size="12" fill="#33ff66" class="line" style="animation-delay:460ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$@@@k\-" ''^''''^"^```^"`'":I[O$$@@@@@@@@@$$$$$$$$$$$</text>
+<text x="18" y="106.5" font-size="12" fill="#33ff66" class="line" style="animation-delay:515ms" xml:space="preserve">$$$$$$$$$$$$$$$$$@$$@/:!;:^'''.'''........`,"``"1k$$@$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="120.6" font-size="12" fill="#33ff66" class="line" style="animation-delay:570ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$dXv+,^`"`'..'`'..... ..... .'`^;f8$@$$$$$$$$$$$$$$$$</text>
+<text x="18" y="134.8" font-size="12" fill="#33ff66" class="line" style="animation-delay:625ms" xml:space="preserve">$$$$$$$$$$$$$$$@$z&gt;"`"^'''..''''            ..'`","x$@$$$$$$$$$$$$$$$$</text>
+<text x="18" y="149.0" font-size="12" fill="#33ff66" class="line" style="animation-delay:680ms" xml:space="preserve">$$$$$$$$$$$$$$@$L'^'^`'`` .....             .....":-d$@$$$$$$$$$$$$$$$</text>
+<text x="18" y="163.1" font-size="12" fill="#33ff66" class="line" style="animation-delay:735ms" xml:space="preserve">$$$$$$$$$$$$$$@$c`,`'' '`...   .....'''''''`''^`.,!lC$@$$$$$$$$$$$$$$$</text>
+<text x="18" y="177.3" font-size="12" fill="#33ff66" class="line" style="animation-delay:790ms" xml:space="preserve">$$$$$$$$$$$$$$$$|","`''.''.   .````^^^""^^",l!!i;,!n&amp;$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="191.4" font-size="12" fill="#33ff66" class="line" style="animation-delay:845ms" xml:space="preserve">$$$$$$$$$$$$$$$$),;`"`''..   .'^"""""",,,:;I~}(xn+/B$$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="205.6" font-size="12" fill="#33ff66" class="line" style="animation-delay:900ms" xml:space="preserve">$$$$$$$$$$$$$$@$0,I""^`'... .`"",,:,,,:;;Il&lt;&gt;-jCpQ#$@$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="219.8" font-size="12" fill="#33ff66" class="line" style="animation-delay:955ms" xml:space="preserve">$$$$$$$$$$$$$$$$W&gt;II^^'.''.'";l!;"^`''``",;i&gt;+(|\xk$$$@$$$$$$$$$$$$$$$</text>
+<text x="18" y="233.9" font-size="12" fill="#33ff66" class="line" style="animation-delay:1010ms" xml:space="preserve">$$$$$$$$$$$$$$$@$j;I,^``'`^&gt;++?-I^^^^"^^^^";ii,";]xpd*$$$$$$$$$$$$$$$$</text>
+<text x="18" y="248.1" font-size="12" fill="#33ff66" class="line" style="animation-delay:1065ms" xml:space="preserve">$$$$$$$$$$$$$$$@$h&gt;+!,,;ili\j\}-;i,^`",,,:,I[+;;~(wkwxw$@$$$$$$$$$$$$$</text>
+<text x="18" y="262.2" font-size="12" fill="#33ff66" class="line" style="animation-delay:1120ms" xml:space="preserve">$$$$$$$$$$$$$$$$@$Xl;;:,",&gt;{[i:":_,"^""",;^;++!^+nkoMCL$@$$$$$$$$$$$$$</text>
+<text x="18" y="276.4" font-size="12" fill="#33ff66" class="line" style="animation-delay:1175ms" xml:space="preserve">$$$$$$$$$$$$$$$$@$m^I,",;+|/?&gt;!I;!!:;:,;;"`;!()_fb$$@v8$@$$$$$$$$$$$$$</text>
+<text x="18" y="290.6" font-size="12" fill="#33ff66" class="line" style="animation-delay:1230ms" xml:space="preserve">$$$$$$$$$$$$$$$$@$o+:;"",~)|}-&lt;lII;,:::,"`:llIvXxJdoUq$@$$$$$$$$$$$$$$</text>
+<text x="18" y="304.7" font-size="12" fill="#33ff66" class="line" style="animation-delay:1285ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$$q&lt;"!,^l-}{{~I;;;:::,"`,l;;!)XJ0d&amp;%$@$$$$$$$$$$$$$$$</text>
+<text x="18" y="318.9" font-size="12" fill="#33ff66" class="line" style="animation-delay:1340ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$#v!"::![{]~I;;:;;;;:""^'"1(nmhB$$@$$$$$$$$$$$$$$$$</text>
+<text x="18" y="333.0" font-size="12" fill="#33ff66" class="line" style="animation-delay:1395ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$$@$$L}&lt;&lt;))}+~!;;;;;::,,"^";&gt;nUOh$$$$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="347.2" font-size="12" fill="#33ff66" class="line" style="animation-delay:1450ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$@@$0{&gt;jt}+&gt;iI;;;:,"^""",:-)(cM$$$$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="361.4" font-size="12" fill="#33ff66" class="line" style="animation-delay:1505ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$$ht_&gt;[?~!ll;::,,,^^^":I&gt;crL$$$$$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="375.5" font-size="12" fill="#33ff66" class="line" style="animation-delay:1560ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$$@$@Bhx[::;I!II;,,,,,::;;li+jmB$$$$$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="389.7" font-size="12" fill="#33ff66" class="line" style="animation-delay:1615ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$@$W?!&lt;~i,^`'`",,,",,,,:::;[fJB$$$$$$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="403.8" font-size="12" fill="#33ff66" class="line" style="animation-delay:1670ms" xml:space="preserve">$$$$$$$$$$$$$$$$$$@$*;'.  .''''..'^""",,"",;+z%$@$$$$$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="418.0" font-size="12" fill="#33ff66" class="line" style="animation-delay:1725ms" xml:space="preserve">$$$$$$$$$$$$$$$$$@@$#l^`'.   ......'`^,;I}1t08$@$$$$$$$$$$$$$$$$$$$$$$</text>
+<text x="18" y="432.2" font-size="12" fill="#33ff66" class="line" style="animation-delay:1780ms" xml:space="preserve">$$$$$$$$$$$$$$$@@$$Z+'''.   ........''`itU$$$$@$$@$$$$$$$$$$$$$$$$@@$$</text>
+<text x="18" y="446.3" font-size="12" fill="#33ff66" class="line" style="animation-delay:1835ms" xml:space="preserve">$$$$$$$$$$$$$@@$$B/  .      .     .....,-'(B@@$$$@$$$$$$$$$$$$$$$$@@$$</text>
+<text x="18" y="460.5" font-size="12" fill="#33ff66" class="line" style="animation-delay:1890ms" xml:space="preserve">$$$$$$$$@@$@@$$Mu+...                 .. ^x@$$@@@$$$$$$$$@$$$$@@@@@$$$</text>
+<text x="18" y="474.6" font-size="12" fill="#33ff66" class="line" style="animation-delay:1945ms" xml:space="preserve">$$$$$$$$$@@$$hu+  '        .          ..Ib$$$@@$$$$$$$$$@@@$$$@@@@$$$$</text>
+<text x="18" y="488.8" font-size="12" fill="#33ff66" class="line" style="animation-delay:2000ms" xml:space="preserve">$$$$$$$@@$$WvI.''. ..   .... ....   . '`L$@$$@$$$@@$$$$@@@$$@$@@@$$@@$</text>
+<text x="18" y="503.0" font-size="12" fill="#33ff66" class="line" style="animation-delay:2055ms" xml:space="preserve">$$$$$$@$$#z~"^'''''... ........ . ..''._$@@@@@@$@@@@@@$@@$$@@@@@@$$$@@</text>
+<text x="18" y="517.1" font-size="12" fill="#33ff66" class="line" style="animation-delay:2110ms" xml:space="preserve">$$@@@@$Mni"``''`''```''''..''''''''''`'_k@$$@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="18" y="531.3" font-size="12" fill="#33ff66" class="line" style="animation-delay:2165ms" xml:space="preserve">$@@@@$q&lt;";"`''`...'`^``'`'.'''`````^"^";i/C*$@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<rect class="cur" x="526.0" y="521.3" width="7.2" height="12" fill="#33ff66" style="animation-delay:2220ms"/>
+</svg>
